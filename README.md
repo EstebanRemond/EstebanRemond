@@ -19,5 +19,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=F05032)
 
-### Tout mes projets ne sont pas visible sur GitHub étant donné que dans le cadre de mes cours, nous utilison un GitLab privé.
-
+### Tous mes projets ne sont pas visibles sur GitHub étant donné que dans le cadre de mes cours, nous utilisons un GitLab privé.
