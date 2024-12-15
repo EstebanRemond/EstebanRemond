@@ -13,7 +13,7 @@
 ![XML](https://img.shields.io/badge/-XML-fff?&logo=xml&logoColor=8A2BE2)
 ![JSON](https://img.shields.io/badge/-JSON-fff?&logo=json&logoColor=000000)
 ![SQL](https://img.shields.io/badge/-SQL-fff?&logo=sqlite&logoColor=blue)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=coffeescript&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2B%2B&logoColor=00599C)
