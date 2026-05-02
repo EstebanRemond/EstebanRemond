@@ -1,7 +1,7 @@
 ## Présentation ✨
 
-- 👨‍🎓 Actuellement étudiant en 2ème année de BUT Informatique
-- ❤️ Passionné par les nouvelles technolgies, le sport, la nutrition et la mécanique moto
+- 👨‍🎓 Actuellement étudiant en 3ème année de BUT Informatique
+- ❤️ Passionné par les nouvelles technolgies, le sport, la nutrition et les jeux d'équipes.
 - 🌿 Curieux et toujours prêt à apprendre de nouvelles choses !
 
 ## Les langages et outils que j'utilise 🔧
